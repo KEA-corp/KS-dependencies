@@ -21,3 +21,15 @@ F random max
 
 F pass var
     E pass var
+
+F debug_on
+    D on
+    E debug_on
+
+F debug_off
+    D off
+    E debug_off
+
+F debug_print
+    D print
+    E debug_print
