@@ -1,5 +1,5 @@
 // dependance KEA 2022
-// uf.kea   -   pf4
+// uf.kea  -  pf4
 
 F print var
     A var
@@ -18,3 +18,6 @@ F input var
 F random max
     R sortie max
     E random sortie
+
+F pass var
+    E pass var
